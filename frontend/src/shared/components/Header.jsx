@@ -25,7 +25,7 @@ const Header = () => {
           <div className="logo-glow-wrapper">
             <ShoppingBag className="logo-icon" />
           </div>
-          <span className="logo-text">Distinction</span>
+          <span className="logo-text">Ms Saodat</span>
         </div>
 
         {/* Center: Navigation Dock */}
