@@ -4,7 +4,7 @@ const AppContext = createContext();
 
 export const useApp = () => useContext(AppContext);
 
-const API_BASE = 'http://localhost:5001/api';
+const API_BASE = '/api';
 
 // Translations Dictionary
 const translations = {
